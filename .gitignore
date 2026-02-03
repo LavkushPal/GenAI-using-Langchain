@@ -1,0 +1,12 @@
+
+
+localenv
+localenv2
+venv
+env
+
+
+log
+.env
+
+models/.env
